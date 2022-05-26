@@ -8,6 +8,12 @@
 
 <h3>Single</h3>
 
+<b>HTML</b>
+<b>CSS</b>
+<b>Javascript</b>
+<b>Mysql</b>
+<b>Bootstrap</b>
+ <b>jQuery</b>
 
 
 <!--
