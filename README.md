@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 🌱 I’m currently learning Website Development
+## 🌱 I’m currently learning Web Development
 
 ### 😄 Myat
 
