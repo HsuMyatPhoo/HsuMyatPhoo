@@ -1,12 +1,8 @@
 ### Hi there 👋
-
+### My name is <h2> Hsu Myat Phoo </h2>
 ## 🌱 I’m currently learning Web Development
 
-### 😄 Myat
 
-<h3>Age 19</h3>
-
-<h3>Single</h3>
 
 <b>HTML</b>
 <b>CSS</b>
